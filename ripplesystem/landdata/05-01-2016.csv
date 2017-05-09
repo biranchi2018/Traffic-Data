@@ -1,0 +1,25 @@
+Time (+08),Temp.,Heat Index,Dew Point,Humidity,Pressure,Visibility,Wind Dir,Wind Speed,Gust Speed,Precip,Events,Conditions
+12:00 AM,25.0 °C,-,25.0 °C,100%,1014 hPa,7.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+1:00 AM,25.0 °C,-,24.0 °C,94%,1014 hPa,6.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+2:00 AM,26.0 °C,-,25.0 °C,94%,1013 hPa,6.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+3:00 AM,26.0 °C,-,25.0 °C,94%,1013 hPa,6.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+4:00 AM,26.0 °C,-,25.0 °C,94%,1012 hPa,6.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+5:00 AM,25.0 °C,-,24.0 °C,94%,1012 hPa,6.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+6:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,6.0 km,NNW,1.9 km/h / 0.5 m/s,-,N/A, ,Mostly Cloudy
+7:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,6.0 km,WNW,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+8:00 AM,26.0 °C,-,24.0 °C,89%,1013 hPa,7.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+9:00 AM,28.0 °C,32.7 °C,25.0 °C,84%,1014 hPa,10.0 km,ENE,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy
+10:00 AM,30.0 °C,35.0 °C,24.0 °C,70%,1014 hPa,10.0 km,East,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+11:00 AM,31.0 °C,36.4 °C,24.0 °C,66%,1014 hPa,10.0 km,NNE,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy
+12:00 AM,,,,,,,,,,,,
+1:00 PM,,,,,,,,,,,,
+2:00 PM,,,,,,,,,,,,
+3:00 PM,,,,,,,,,,,,
+4:00 PM,32.0 °C,39.0 °C,25.0 °C,66%,1009 hPa,10.0 km,SW,14.8 km/h / 4.1 m/s,-,N/A,Thunderstorm,Thunderstorm
+5:00 PM,31.0 °C,37.6 °C,25.0 °C,70%,1009 hPa,9.0 km,SW,11.1 km/h / 3.1 m/s,-,N/A,"Rain , Thunderstorm",Light Thunderstorms and Rain
+6:00 PM,27.0 °C,31.2 °C,26.0 °C,94%,1009 hPa,7.0 km,West,5.6 km/h / 1.5 m/s,-,N/A,"Rain , Thunderstorm",Light Thunderstorms and Rain
+7:00 PM,26.0 °C,-,24.0 °C,89%,1011 hPa,6.0 km,West,5.6 km/h / 1.5 m/s,-,N/A,"Rain , Thunderstorm",Light Thunderstorms and Rain
+8:00 PM,25.0 °C,-,23.0 °C,89%,1011 hPa,9.0 km,NW,5.6 km/h / 1.5 m/s,-,N/A, ,Overcast
+9:00 PM,26.0 °C,-,24.0 °C,89%,1012 hPa,9.0 km,Calm,Calm,-,N/A,Rain,Light Rain
+10:00 PM,26.0 °C,-,25.0 °C,94%,1013 hPa,9.0 km,WNW,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy
+11:00 PM,26.0 °C,-,25.0 °C,94%,1014 hPa,6.0 km,WNW,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy

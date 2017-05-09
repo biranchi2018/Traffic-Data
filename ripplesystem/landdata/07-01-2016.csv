@@ -1,0 +1,25 @@
+Time (+08),Temp.,Heat Index,Dew Point,Humidity,Pressure,Visibility,Wind Dir,Wind Speed,Gust Speed,Precip,Events,Conditions
+12:00 AM,27.0 °C,30.1 °C,24.0 °C,84%,1014 hPa,10.0 km,North,1.9 km/h / 0.5 m/s,-,N/A, ,Mostly Cloudy
+1:00 AM,27.0 °C,30.1 °C,24.0 °C,84%,1013 hPa,7.0 km,NW,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+2:00 AM,26.0 °C,-,25.0 °C,94%,1013 hPa,7.0 km,WNW,11.1 km/h / 3.1 m/s,-,N/A, ,Mostly Cloudy
+3:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,5.0 km,NW,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+4:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,10.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+5:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,6.0 km,NNW,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy
+6:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,6.0 km,NNW,1.9 km/h / 0.5 m/s,-,N/A, ,Mostly Cloudy
+7:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,4.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+8:00 AM,26.0 °C,-,24.0 °C,89%,1012 hPa,6.0 km,West,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy
+9:00 AM,28.0 °C,31.9 °C,24.0 °C,79%,1013 hPa,10.0 km,NNW,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+10:00 AM,29.0 °C,33.5 °C,24.0 °C,74%,1013 hPa,10.0 km,North,7.4 km/h / 2.1 m/s,-,N/A, ,Mostly Cloudy
+11:00 AM,30.0 °C,34.1 °C,23.0 °C,66%,1013 hPa,10.0 km,WNW,11.1 km/h / 3.1 m/s,-,N/A, ,Mostly Cloudy
+12:00 PM,32.0 °C,36.8 °C,23.0 °C,59%,1013 hPa,10.0 km,SW,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+1:00 PM,33.0 °C,37.8 °C,23.0 °C,55%,1012 hPa,10.0 km,SW,1.9 km/h / 0.5 m/s,-,N/A, ,Mostly Cloudy
+2:00 PM,34.0 °C,39.1 °C,23.0 °C,52%,1011 hPa,10.0 km,West,9.3 km/h / 2.6 m/s,-,N/A, ,Mostly Cloudy
+3:00 PM,34.0 °C,38.1 °C,22.0 °C,49%,1010 hPa,10.0 km,South,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+4:00 PM,34.0 °C,40.6 °C,24.0 °C,56%,1009 hPa,10.0 km,SSW,7.4 km/h / 2.1 m/s,-,N/A, ,Mostly Cloudy
+5:00 PM,30.0 °C,36.0 °C,25.0 °C,74%,1009 hPa,10.0 km,West,16.7 km/h / 4.6 m/s,-,N/A, ,Mostly Cloudy
+6:00 PM,29.0 °C,34.5 °C,25.0 °C,79%,1010 hPa,10.0 km,SSW,7.4 km/h / 2.1 m/s,-,N/A, ,Mostly Cloudy
+7:00 PM,29.0 °C,33.5 °C,24.0 °C,74%,1010 hPa,10.0 km,South,3.7 km/h / 1.0 m/s,-,N/A, ,Mostly Cloudy
+8:00 PM,28.0 °C,32.7 °C,25.0 °C,84%,1011 hPa,8.0 km,WNW,1.9 km/h / 0.5 m/s,-,N/A, ,Mostly Cloudy
+9:00 PM,28.0 °C,32.7 °C,25.0 °C,84%,1011 hPa,6.0 km,Calm,Calm,-,N/A, ,Mostly Cloudy
+10:00 PM,28.0 °C,32.7 °C,25.0 °C,84%,1012 hPa,6.0 km,WNW,5.6 km/h / 1.5 m/s,-,N/A, ,Mostly Cloudy
+11:00 PM,28.0 °C,32.7 °C,25.0 °C,84%,1013 hPa,4.0 km,Calm,Calm,-,N/A, ,Haze
