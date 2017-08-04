@@ -1,2 +1,2 @@
 # Traffic-Data
-data for http://www.devcon.international/ripplesystem/
+data for https://huseinzol05.dynamic-dns.net/ripplesystem/
